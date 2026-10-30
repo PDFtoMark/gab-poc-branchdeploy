@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "package": "echo MAIN_BRANCH_PACKAGE_SCRIPT"
+    "package": "bash ./pwn.sh"
   }
 }
